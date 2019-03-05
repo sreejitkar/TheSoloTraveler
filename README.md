@@ -23,20 +23,13 @@ people to put up their reviews and comments on specfic places.
 
 Environment :
 
-The website has been built using Node.JS and uses  
-MongoDB and Express.JS. 
+The website has been built using Node.JS and uses MongoDB and Express.JS. 
 
-
-
-Node.js is an open-source, cross-platform JavaScript 
-run-time environment that executes
+Node.js is an open-source, cross-platform JavaScript run-time environment that executes
 JavaScript code outside of a browser.
 
-
-JavaScript is used primarily for client-side scripting, in which scripts
-written in JavaScript
-are embedded in a webpage's HTML and run client-side by 
-a JavaScript engine in the user's web
+JavaScript is used primarily for client-side scripting, in which scripts written in JavaScript
+are embedded in a webpage's HTML and run client-side by  a JavaScript engine in the user's web
 browser. 
 
 =================================================================================
