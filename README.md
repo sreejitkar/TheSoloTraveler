@@ -33,6 +33,12 @@ are embedded in a webpage's HTML and run client-side by  a JavaScript engine in 
 browser. 
 
 =================================================================================
+PROBLEM IN FOCUS :
+
+ When ever we travel for leisure, we find it very difficult to estimate our expenses
+ and work within our b
+ 
+=================================================================================
 
 API's Used
 
